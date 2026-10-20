@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="demo1" group-title="Demo",Canal Demo 1 (Big Buck Bunny)
+#EXTINF:-1 tvg-id="demo-cl1" group-title="Chile",Demo Chile 1 (video de prueba)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="demo2" group-title="Demo",Canal Demo 2 (Sintel)
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="demo3" group-title="Demo",Canal Demo 3 (Prueba Apple)
+#EXTINF:-1 tvg-id="demo-cl2" group-title="Chile",Demo Chile 2 (video de prueba)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-id="demo-dp1" group-title="Deportes",Demo Deportes 1 (video de prueba)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="demo-dp2" group-title="Deportes",Demo Deportes 2 (video de prueba)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="demo-ot1" group-title="Otros",Demo General 1 (video de prueba)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="demo-ot2" group-title="Otros",Demo General 2 (video de prueba)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8

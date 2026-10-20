@@ -4,7 +4,7 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="demo-cl2" group-title="Chile",Demo Chile 2 (video de prueba)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 #EXTINF:-1 tvg-id="demo-dp1" group-title="Deportes",Demo Deportes 1 (video de prueba)
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 #EXTINF:-1 tvg-id="demo-dp2" group-title="Deportes",Demo Deportes 2 (video de prueba)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="demo-ot1" group-title="Otros",Demo General 1 (video de prueba)
